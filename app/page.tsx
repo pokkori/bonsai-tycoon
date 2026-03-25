@@ -101,6 +101,7 @@ export default function HomePage() {
         <div className="flex justify-center gap-4 mt-2">
           <Link href="/legal" className="text-xs text-gray-400 hover:underline">特定商取引法</Link>
           <Link href="/privacy" className="text-xs text-gray-400 hover:underline">プライバシーポリシー</Link>
+          <Link href="/terms" className="text-xs text-gray-400 hover:underline">利用規約</Link>
         </div>
       </footer>
     </div>
